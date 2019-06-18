@@ -11,7 +11,7 @@ When setting up multiple API's in one site or module, the code gets a bit unclea
 The API manager handles everything in the interface.
 
 ### Installation
-Just enable the module. Under 'Structure' you will find a new menu item called 'Api manager'. To there and add your first API. In the main list view, there is a button 'Run import' to directly test your settings. 
+Just enable the module. Under 'Structure' you will find a new menu item called 'Api manager'. Go there and add your first API. In the main list view, there is a button 'Run import' to directly test your settings. 
 
 ### Types of API?
 At this moment, only JSON is available as a type. Also, for the time being without authentication. It is meant for use on small to medium sized websites.
